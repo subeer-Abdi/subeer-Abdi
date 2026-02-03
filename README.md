@@ -37,16 +37,16 @@ Here are some of the hands-on work I’m doing:
 
 ## 📈 Learning Roadmap
 - ✔ Complete **CompTIA ITF+**  
-- ✔ Master **Linux Commands & Administration**  
-- ⏳ Prepare for **CompTIA Security+**  
-- ⏳ Explore **Red Hat Professional Certifications**  
-- ⏳ Dive into **Ethical Hacking & Offensive Security Labs**  
+- ✔ learning **Linux Commands & Administration**  
+- ⏳ start  **CompTIA A+**  
+- ⏳ learning **fundemental of ethical hacking **  
+
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/subeer-Abdi](https://github.com/subeer-Abdi)  
-- Email: your-email@example.com  
+- Email: csubeer02@gmail.com 
 
 ---
 
